@@ -1,5 +1,14 @@
 ---
 title: "Ozias808.github.io"
+image: media/doggy.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      href: https://github.com/Ozias808
+      target: blank
 ---
 
 This is a Quarto website.
@@ -7,5 +16,5 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+9 + 10
 ```
