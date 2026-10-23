@@ -9,6 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resume.qmd
+        text: Resume
+      - icon: github
+        href: https://github.com/Ozias808
+        target: blank
+      
 
 format:
   html:
