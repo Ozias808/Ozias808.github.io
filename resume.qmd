@@ -1,10 +1,10 @@
 ---
 title: "Resume"
 resources:
-  - media/ozias_resume.docx
+  - media/ozias_resume.pdf
 ---
 
-{{< pdf media/ozias_resume.docx width=100% height=800 >}}
+{{< pdf media/ozias_resume.pdf width=100% height=800 >}}
 ---
 
-![](media/ozias_resume.docx)
+![](media/ozias_resume.pdf)
