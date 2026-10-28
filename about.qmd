@@ -1,9 +1,37 @@
 ---
-title: "About"
+title: "Games I like to play"
 ---
 
-About this site
+## Marvel Rivals
 
-```{r}
-1 + 1
-```
+## Overwatch
+
+## Mortal Kombat 1
+
+## Roblox
+
+## Umamusume Pretty Derby
+
+## Resident Evil Requiem(9)
+
+## Skate
+
+## Fortnite
+
+## Expedition 33
+
+## Yu-Gi-Oh! Master Duel
+
+## Elden Ring
+
+## The Outlast Trials
+
+## Minecraft
+
+## Dispatch
+
+## Hollow Knight Silksong
+
+## Ghost of Tsushima
+
+## Geometry Dash

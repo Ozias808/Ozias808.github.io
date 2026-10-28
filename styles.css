@@ -1,17 +1,17 @@
 /* css styles */
 h1, p {
-  color: orange;
+  color: purple;
 }
 h2 {
-  color:green;
+  color:gree;
 }
 h3 {
-  color:black;
+  color:blac;
   font-style: italic;
 }
 
 body {
-  background-color:purple;
+  background-color:;
 }
 
 ol, ul {
@@ -20,5 +20,5 @@ ol, ul {
 }
 
 a {
-  color: purple;
+  color: purpl;
 }
