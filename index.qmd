@@ -11,6 +11,8 @@ about:
       target: blank
 ---
 
-# h1
+# About Me
 
-##### 
+### 
+
+Aloha! I'm Ozias Reyes and I am eighteen years old. I graduated from Kamehameha Schools Kapalama and am currently attending Chaminade University. I love playing video games and am trying my best through school life right now.
